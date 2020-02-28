@@ -1,0 +1,12 @@
+[package]
+name = "wgpu-engine"
+version = "0.1.0"
+authors = ["Gorbit99 <gorbitgames@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+winit = "0.21.0"
+wgpu = "0.4.0"
+shaderc = "0.6.1"
+zerocopy = "0.2.8"
+image = "0.23.0"
